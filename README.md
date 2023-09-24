@@ -1,13 +1,10 @@
-## Información participantes:
+# Proyecto: Online Product Sales
 
-    Nombre: Jeffrey Sneider Rengifo Marin
-    Cédula: 1037659300
-    Programa: Ingeniería de Sistemas
+## Miembros del grupo
 
-    Nombre: Elkin Sanchez
-    Cédula: 1
-    Programa: Ingeniería Civil
+- Jeffrey Sneider Rengifo Marin, CC 1037659300, Ingeniería de Sistemas
+- Elkin David Sanchez Vélez, CC 1007104359, Ingeniería Civil
 
-## Fuente de los datos:
+## Datos
 
-> URL: https://www.kaggle.com/competitions/online-sales/overview
+Los datos del proyecto vienen de [La competición Kaggle Online Product Sales](https://www.kaggle.com/competitions/online-sales/overview).
