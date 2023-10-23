@@ -8,3 +8,7 @@
 ## Datos
 
 Los datos del proyecto vienen de [La competición Kaggle Online Product Sales](https://www.kaggle.com/competitions/online-sales/overview).
+
+## Entrega 2
+
+Video [Video entrega 2](https://youtu.be/QlewuOfzY1Y)
