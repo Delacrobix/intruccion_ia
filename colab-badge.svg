@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 164 25.3" fill="#639">
+  <g id="colab-badge-svg-export">
+    <g id="Group_22" data-name="Group 22" transform="translate(-203.938 -289.941)">
+      <g id="Group_21" data-name="Group 21" transform="translate(145 251)">
+        <path id="Path_30" data-name="Path 30" d="M18,0,9,9,0,0" transform="translate(34 39)" fill="#ffbb00"></path>
+        <path id="Path_31" data-name="Path 31" d="M9,9,0,18,0,9" transform="translate(34 39)" fill="#d60000"></path>
+      </g>
+      <g id="Group_20" data-name="Group 20" transform="translate(0 224)">
+        <path id="Path_32" data-name="Path 32" d="M9,0,0,9,9,18" transform="translate(234 66)" fill="#4285f4"></path>
+        <path id="Path_33" data-name="Path 33" d="M9,0,18,9,9,18" transform="translate(234 66)" fill="#34a853"></path>
+        <path id="Path_34" data-name="Path 34" d="M0,0,9,18,18,9,9,0Z" transform="translate(234 66)" fill="#0f9d58"></path>
+      </g>
+    </g>
+    <text id="Open_in_Colab" data-name="Open in Colab" transform="translate(159 308)" fill="#000" font-size="11" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-78.214" y="0">Open in Colab</tspan></text>
+  </g>
+</svg>
