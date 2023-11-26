@@ -17,4 +17,4 @@ Video [Video entrega 2](https://youtu.be/QlewuOfzY1Y)
 
 ## Entrega 3
 
-Video [Video entrega 2](https://youtu.be/GA0GcOiZreE)
+Video [Video entrega 3](https://youtu.be/GA0GcOiZreE)
