@@ -14,3 +14,7 @@ Los datos del proyecto vienen de [La competición Kaggle Online Product Sales](h
 ## Entrega 2
 
 Video [Video entrega 2](https://youtu.be/QlewuOfzY1Y)
+
+## Entrega 3
+
+Video [Video entrega 2](https://youtu.be/GA0GcOiZreE)
